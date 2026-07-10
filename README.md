@@ -2,9 +2,9 @@
 
 ### Required package versions of SpaDES to run these modules
 
+### Introduction and summary of methods
 
-
-### What it does
+### Visual demo of what it does
 
 
 
@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/28a20b55-866d-4054-8ccf-b61e31e4cfe5
 
 ### Licence
 
-    Copyright 2023 Province of British Columbia
+    Copyright 2026 Province of British Columbia
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
