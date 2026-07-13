@@ -4,6 +4,8 @@
 
 ### Introduction and summary of methods
 
+For a summary of the methods used in this module see [fireCastor_summary_methods](https://github.com/bcgov/fireCastor/blob/main/r_background_scripts/fireCastor_summary_methods.md)
+
 ### Visual demo of what it does
 
 
